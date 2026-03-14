@@ -1,0 +1,13 @@
+Notepad Files (Country, States, Product, SalesPerson, Customer, FactCustomer)
+        |
+        v
+   SSIS Packages (ETL)
+        |
+        v
+   MSBI Database (SQL Server)
+        |
+        v
+   FactCustomer (joins everything)
+        |
+        v
+     SSRS Reports (Reporting Services)
