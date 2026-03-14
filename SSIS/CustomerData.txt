@@ -1,0 +1,4 @@
+CustomerCode,CustomerName,CustomerAmount,SalesDate,CountryName,StatesName,ProductName,SalesPersonName
+1001,Shiv,12,1/1/2010,India,Maharastra,Sport Shoes,Shiv
+1002,Raju,400,2/2/2012,Nepal,Kathmandu,Shirts,Raju
+1003,Ajay,500,3/3/2013,US,NewYork,Pants,Khadak
